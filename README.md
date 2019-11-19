@@ -1,1 +1,1 @@
-# rss
+<?php include ("https://www.rssdog.com/index.php?url=http%3A%2F%2Fprocess3.gprocurement.go.th%2FEPROCRssFeedWeb%2Fegpannouncerss.xml%3FdeptId%3D0304&mode=html&showonly=&maxitems=0&showdescs=1&desctrim=0&descmax=0&tabwidth=100%25&linktarget=_blank&textsize=inherit&bordercol=%23d4d0c8&headbgcol=%23999999&headtxtcol=%23ffffff&titlebgcol=%23f1eded&titletxtcol=%23000000&itembgcol=%23ffffff&itemtxtcol=%23000000&ctl=0"); ?>
